@@ -1,0 +1,2 @@
+июл 10, 2017 7:46:52 PM TetATet main
+INFO: Server starts
